@@ -1,8 +1,9 @@
-import Practice from "./Components/Practice";
+import PackingList from "./Components/ConditionalRendering";
+import RenderingLists from "./Components/RenderingLists";
 function App() {
   return (
     <div>
-      <Practice />
+      <RenderingLists />
     </div>
   );
 }
