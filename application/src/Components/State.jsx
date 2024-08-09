@@ -17,4 +17,7 @@ import data from "../array/people.json";
 //   );
 // }
 
-export default function StateUse() {}
+export default function StateUse() 
+{
+ const [] ;
+}
